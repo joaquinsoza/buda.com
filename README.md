@@ -10,7 +10,7 @@ pip install requests
 pip install tabulate
 ```
 
-Change the **config.json** file to add your API_KEY and SECRET
+Change the **config.json** file to add your ***API_KEY*** and ***SECRET***
 ```json
 {
   "API_KEY": "your API_KEY",
